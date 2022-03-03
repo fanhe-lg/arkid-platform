@@ -1,0 +1,3 @@
+[submodule "arkid"]
+	path = arkid
+	url = git@github.com:longguikeji/arkid.git
