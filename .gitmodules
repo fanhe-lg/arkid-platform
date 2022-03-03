@@ -1,3 +1,6 @@
 [submodule "arkid"]
 	path = arkid
 	url = git@github.com:longguikeji/arkid.git
+[submodule "arkid-frontend"]
+	path = arkid-frontend
+	url = git@github.com:longguikeji/arkid-frontend.git
